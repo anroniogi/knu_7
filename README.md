@@ -43,10 +43,6 @@ test_1
   - 12월
       - 3일
 
-
-<<<<<<< HEAD
-=======
-
 #### 김혜지
  -  전기전자공학과, 16학번
  - [github 링크](https://github.com/hengzizng)
@@ -55,4 +51,3 @@ test_1
 #### 이원준
  - 전기전자공학과, 13학번
  - [github 링크](https://github.com/ab3774)
->>>>>>> febb5b554d75cc09725ba588a96ce64d341a311b
