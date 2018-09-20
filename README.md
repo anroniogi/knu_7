@@ -21,10 +21,10 @@ Git client 설치
 # 전인준
 ## ~문법
 
-|학생|
-:--|:--|
-이름|전인준
-나이|26
+||학생|
+|:--|:--|
+|이름|전인준|
+|나이|26|
 
 ![test](./img/test.png)
 
@@ -47,4 +47,16 @@ test_2
       - 3일
 
 
+<<<<<<< HEAD
 ![](./test.png)
+=======
+![test](/test.png)
+
+#### 김혜지
+ -  전기전자공학과, 16학번
+ - [github 링크](https://github.com/hengzizng)
+
+#### 이원준
+ - 전기전자공학과, 13학번
+ - [github 링크](https://github.com/ab3774)
+>>>>>>> febb5b554d75cc09725ba588a96ce64d341a311b
