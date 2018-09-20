@@ -11,15 +11,19 @@ Git client 설치
 
 
 
-## 조원 정보
+# 조원 정보
+-------------------
 #### 김상규  
  -  전기전자공학과, 13학번
  - [github 링크](https://github.com/anroniogi)
  - [gitpage 링크](https://anroniogi.github.io)  
 
-
+***
 # 전인준
 ## ~문법
+~~~
+test_1
+~~~
 
 ||학생|
 |:--|:--|
@@ -29,17 +33,9 @@ Git client 설치
 ![test](test.PNG)
 
 
-| 이름 | 전인준 |
-|:-------|-------:|
-|   나이    |  26    |   
-
-~~~
-test_1
-~~~
-
 **``문법**
 ```
-test_2
+이미지파일 확장자 대문자로 안하면 홈페이지에서 출력이 안됨
 ```
 
 생일
@@ -55,6 +51,7 @@ test_2
  -  전기전자공학과, 16학번
  - [github 링크](https://github.com/hengzizng)
 
+- - -
 #### 이원준
  - 전기전자공학과, 13학번
  - [github 링크](https://github.com/ab3774)
