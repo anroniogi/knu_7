@@ -17,6 +17,32 @@ Git client 설치
  - [github 링크](https://github.com/anroniogi)
  - [gitpage 링크](https://anroniogi.github.io)  
 
+
+# 전인준
+## ~문법
+
+||학생|
+|:--|:--|
+|이름|전인준|
+|나이|26|
+
+~~~
+test_1
+~~~
+
+**``문법**
+```
+test_2
+```
+
+생일
+- 93년
+  - 12월
+      - 3일
+
+
+![test](/test.png)
+
 #### 김혜지
  -  전기전자공학과, 16학번
  - [github 링크](https://github.com/hengzizng)
