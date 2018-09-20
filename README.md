@@ -16,3 +16,8 @@ Git client 설치
  -  전기전자공학과, 13학번
  - [github 링크](https://github.com/anroniogi)
  - [gitpage 링크](https://anroniogi.github.io)  
+
+#### 김혜지
+ -  전기전자공학과, 16학번
+ - [github 링크](https://github.com/hengzizng)
+
